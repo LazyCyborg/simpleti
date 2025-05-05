@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import numpy as np
-import plotly.graph_objs as go
+import plotly.graph_objects as go
 
 
 st.set_page_config(page_title="Plotting interference", page_icon="⚡️")

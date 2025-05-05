@@ -198,9 +198,9 @@ def plot_charges(ta, pa, tb, pb, tc, pc, td, pd):
     return fig
 
 
-st.set_page_config(page_title="Plotting interference", page_icon="⚡️")
+st.set_page_config(page_title="Plotting E fields", page_icon="⚡️")
 
-st.markdown("# Simple Interference on a sphere")
+st.markdown("# Simple E fields on a sphere")
 st.sidebar.header("Visualise on sphere")
 st.write(
     """Channel 1 + Channel 2"""
